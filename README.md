@@ -15,11 +15,11 @@ Android Studio
 * Enter a message
 * Click SEND
 
-<img src="img/main_activity.png" width="700">
+<img src="img/main_activity.png" height="700">
 
 The message is displayed when button is clicked
 
-<img src="img/display_message.png" width="700">
+<img src="img/display_message.png" height="700">
 
 Go back to main menu by clicking the Up (back) button in the App Bar 
 
